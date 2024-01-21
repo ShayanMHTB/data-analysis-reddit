@@ -75,7 +75,8 @@ executable data-analysis-reddit
         aeson,
         http-conduit,
         text,
-        bytestring
+        bytestring,
+        dotenv
 
     -- Directories containing source files.
     hs-source-dirs:   
